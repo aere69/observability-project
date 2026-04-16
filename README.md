@@ -109,8 +109,10 @@ http_requests_total{method="GET",endpoint="/",status="200"}
 
 ### Login
 
+```txt
 username: admin
 password: admin
+```
 
 ### Add Prometheus Data Source
 
