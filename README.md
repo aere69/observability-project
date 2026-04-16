@@ -204,7 +204,7 @@ for i in {1..50}; do curl localhost:5000/error; done
 - Tempo for tracing
 - CI/CD integration
 
-## 🧠 What You Learn
+## 🧠 What is implemented
 
 - End-to-end observability design
 - Prometheus configuration and querying
