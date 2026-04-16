@@ -1,0 +1,19 @@
+# Core web framework
+
+flask==3.0.3
+
+# Prometheus instrumentation
+
+prometheus-client==0.20.0
+
+# Production WSGI server (recommended for deployment)
+
+gunicorn==22.0.0
+
+# Optional: request parsing / utilities (future-proofing)
+
+werkzeug==3.0.3
+
+# Optional: environment variable management
+
+python-dotenv==1.0.1
